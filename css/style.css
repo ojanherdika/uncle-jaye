@@ -599,7 +599,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   /* min-height: 300px; */
   max-width: 100%;
   height: 500px;
-  background: url(../img/roti_besar/IMG_6123.JPG) center top no-repeat;
+  background: url(../img/roti_besar/rsz_1rsz_img_5917_-_copy.jpg) center top no-repeat;
   margin-bottom: 10px;
 }
 
@@ -665,6 +665,662 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about-regular_double_almound .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* regular double keju */
+#about-regular_double_keju {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-regular_double_keju .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_besar/rsz_img_6060_-_copy.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-regular_double_keju .about-container .content {
+  background: #fff;
+}
+
+#about-regular_double_keju .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-regular_double_keju .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-regular_double_keju .about-container p {
+  line-height: 26px;
+}
+
+#about-regular_double_keju .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-regular_double_keju .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-regular_double_keju .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-regular_double_keju .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-regular_double_keju .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-regular_double_keju .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-regular_double_keju .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* mini coklat */
+#about-mini_coklat {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-mini_coklat .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_kecil/resize/rsz_1img_8899.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-mini_coklat .about-container .content {
+  background: #fff;
+}
+
+#about-mini_coklat .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-mini_coklat .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-mini_coklat .about-container p {
+  line-height: 26px;
+}
+
+#about-mini_coklat .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-mini_coklat .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-mini_coklat .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-mini_coklat .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-mini_coklat .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-mini_coklat .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-mini_coklat .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* mini almond */
+#about-mini_almond {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-mini_almond .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_kecil/resize/rsz_1img_8827.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-mini_almond .about-container .content {
+  background: #fff;
+}
+
+#about-mini_almond .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-mini_almond .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-mini_almond .about-container p {
+  line-height: 26px;
+}
+
+#about-mini_almond .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-mini_almond .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-mini_almond .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-mini_almond .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-mini_almond .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-mini_almond .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-mini_almond .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* mini kismis */
+#about-mini_kismis {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-mini_kismis .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_kecil/resize/rsz_1img_8877.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-mini_kismis .about-container .content {
+  background: #fff;
+}
+
+#about-mini_kismis .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-mini_kismis .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-mini_kismis .about-container p {
+  line-height: 26px;
+}
+
+#about-mini_kismis .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-mini_kismis .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-mini_kismis .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-mini_kismis .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-mini_kismis .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-mini_kismis .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-mini_kismis .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* mini abon */
+#about-mini_abon {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-mini_abon .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_kecil/resize/rsz_1img_8792.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-mini_abon .about-container .content {
+  background: #fff;
+}
+
+#about-mini_abon .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-mini_abon .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-mini_abon .about-container p {
+  line-height: 26px;
+}
+
+#about-mini_abon .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-mini_abon .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-mini_abon .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-mini_abon .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-mini_abon .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-mini_abon .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-mini_abon .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* mini smoked beef */
+#about-mini_smoked-beef {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-mini_smoked-beef .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_kecil/resize/rsz_1img_8851.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-mini_smoked-beef .about-container .content {
+  background: #fff;
+}
+
+#about-mini_smoked-beef .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-mini_smoked-beef .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-mini_smoked-beef .about-container p {
+  line-height: 26px;
+}
+
+#about-mini_smoked-beef .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-mini_smoked-beef .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-mini_smoked-beef .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-mini_smoked-beef .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-mini_smoked-beef .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-mini_smoked-beef .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-mini_smoked-beef .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* mini kismis */
+#about-mini_kismis {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-mini_kismis .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_kecil/resize/rsz_1img_8877.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-mini_kismis .about-container .content {
+  background: #fff;
+}
+
+#about-mini_kismis .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-mini_kismis .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-mini_kismis .about-container p {
+  line-height: 26px;
+}
+
+#about-mini_kismis .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-mini_kismis .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-mini_kismis .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-mini_kismis .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-mini_kismis .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-mini_kismis .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-mini_kismis .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* regular double coklat */
+#about-regular_double_coklat {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-regular_double_coklat .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/roti_besar/rsz_img_5956_-_copy.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-regular_double_coklat .about-container .content {
+  background: #fff;
+}
+
+#about-regular_double_coklat .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-regular_double_coklat .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-regular_double_coklat .about-container p {
+  line-height: 26px;
+}
+
+#about-regular_double_coklat .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-regular_double_coklat .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-regular_double_coklat .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-regular_double_coklat .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-regular_double_coklat .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-regular_double_coklat .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-regular_double_coklat .about-container .icon-box .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
