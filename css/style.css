@@ -1408,6 +1408,416 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
+/* cookies kismis */
+#about-cookies_kismis {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-cookies_kismis .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/Cookies/resize/rsz_file_006.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-cookies_kismis .about-container .content {
+  background: #fff;
+}
+
+#about-cookies_kismis .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-cookies_kismis .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-cookies_kismis .about-container p {
+  line-height: 26px;
+}
+
+#about-cookies_kismis .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-cookies_kismis .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-cookies_kismis .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-cookies_kismis .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-cookies_kismis .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-cookies_kismis .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-cookies_kismis .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* cookies dark choco */
+#about-cookies_dark-choco {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-cookies_dark-choco .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/Cookies/resize/rsz_file_007.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-cookies_dark-choco .about-container .content {
+  background: #fff;
+}
+
+#about-cookies_dark-choco .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-cookies_dark-choco .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-cookies_dark-choco .about-container p {
+  line-height: 26px;
+}
+
+#about-cookies_dark-choco .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-cookies_dark-choco .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-cookies_dark-choco .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-cookies_dark-choco .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-cookies_dark-choco .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-cookies_dark-choco .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-cookies_dark-choco .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* cookies m&m */
+#about-cookies_mm {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-cookies_mm .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/Cookies/resize/rsz_file_009.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-cookies_mm .about-container .content {
+  background: #fff;
+}
+
+#about-cookies_mm .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-cookies_mm .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-cookies_mm .about-container p {
+  line-height: 26px;
+}
+
+#about-cookies_mm .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-cookies_mm .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-cookies_mm .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-cookies_mm .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-cookies_mm .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-cookies_mm .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-cookies_mm .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* cookies keju */
+#about-cookies_keju {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-cookies_keju .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/Cookies/resize/rsz_file_011.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-cookies_keju .about-container .content {
+  background: #fff;
+}
+
+#about-cookies_keju .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-cookies_keju .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-cookies_keju .about-container p {
+  line-height: 26px;
+}
+
+#about-cookies_keju .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-cookies_keju .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-cookies_keju .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-cookies_keju .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-cookies_keju .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-cookies_keju .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-cookies_keju .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+/* cookies kejuRosemary */
+#about-cookies_kejuRosemary {
+  background: #fff;
+  padding: 80px 0;
+  padding-bottom: 0;
+}
+
+#about-cookies_kejuRosemary .about-container .background {
+  /* min-height: 300px; */
+  max-width: 100%;
+  height: 500px;
+  background: url(../img/Cookies/resize/rsz_file_013.jpg) center top no-repeat;
+  margin-bottom: 10px;
+}
+
+#about-cookies_kejuRosemary .about-container .content {
+  background: #fff;
+}
+
+#about-cookies_kejuRosemary .about-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  #about-cookies_kejuRosemary .about-container .title {
+    padding-top: 15px;
+  }
+}
+
+#about-cookies_kejuRosemary .about-container p {
+  line-height: 26px;
+}
+
+#about-cookies_kejuRosemary .about-container p:last-child {
+  margin-bottom: 0;
+}
+
+#about-cookies_kejuRosemary .about-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#about-cookies_kejuRosemary .about-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#about-cookies_kejuRosemary .about-container .icon-box .icon i {
+  color: #2dc997;
+  font-size: 24px;
+}
+
+#about-cookies_kejuRosemary .about-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#about-cookies_kejuRosemary .about-container .icon-box .title a {
+  color: #111;
+}
+
+#about-cookies_kejuRosemary .about-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
 /* mini kismis */
 #about-mini_kismis {
   background: #fff;
